@@ -2,3 +2,8 @@
 2020.12.20 17:23:54 INFO  time: initialize in 0.71s
 2020.12.20 17:23:55 WARN  Build server is not auto-connectable.
 2020.12.20 17:23:55 WARN  no build tool detected in workspace 'C:\Users\USER\Dropbox\Mi PC (DESKTOP-U47SLUS)\Desktop\RealPage\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 09:11:00 INFO  shutting down Metals
+2020.12.21 09:11:58 INFO  Started: Metals version 0.9.8 in workspace 'C:\Users\USER\Dropbox\Mi PC (DESKTOP-U47SLUS)\Desktop\RealPage\test' for client vscode.
+2020.12.21 09:11:59 INFO  time: initialize in 1.04s
+2020.12.21 09:12:02 WARN  Build server is not auto-connectable.
+2020.12.21 09:12:02 WARN  no build tool detected in workspace 'C:\Users\USER\Dropbox\Mi PC (DESKTOP-U47SLUS)\Desktop\RealPage\test'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
